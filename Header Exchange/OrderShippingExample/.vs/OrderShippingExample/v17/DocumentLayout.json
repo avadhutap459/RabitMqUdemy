@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A058705-FDF0-4413-A5CD-99621CDAD276}|TrackingService\\TrackingService.csproj|c:\\users\\avadhutp\\source\\repos\\rabbitmq\\header exchange\\ordershippingexample\\trackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A058705-FDF0-4413-A5CD-99621CDAD276}|TrackingService\\TrackingService.csproj|solutionrelative:trackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADD2DC-F90A-447F-8A50-3087A6E0DF54}|OrderServices\\OrderServices.csproj|c:\\users\\avadhutp\\source\\repos\\rabbitmq\\header exchange\\ordershippingexample\\orderservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADD2DC-F90A-447F-8A50-3087A6E0DF54}|OrderServices\\OrderServices.csproj|solutionrelative:orderservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E953A11C-A5B7-43B5-AE93-9A58DE46C21F}|ShippingServices\\ShippingServices.csproj|c:\\users\\avadhutp\\source\\repos\\rabbitmq\\header exchange\\ordershippingexample\\shippingservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E953A11C-A5B7-43B5-AE93-9A58DE46C21F}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E953A11C-A5B7-43B5-AE93-9A58DE46C21F}|ShippingServices\\ShippingServices.csproj|c:\\users\\avadhutp\\source\\repos\\rabbitmq\\header exchange\\ordershippingexample\\shippingservices\\consumer\\orderplacedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E953A11C-A5B7-43B5-AE93-9A58DE46C21F}|ShippingServices\\ShippingServices.csproj|solutionrelative:shippingservices\\consumer\\orderplacedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A058705-FDF0-4413-A5CD-99621CDAD276}|TrackingService\\TrackingService.csproj|c:\\users\\avadhutp\\source\\repos\\rabbitmq\\header exchange\\ordershippingexample\\trackingservice\\consumer\\orderplacedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A058705-FDF0-4413-A5CD-99621CDAD276}|TrackingService\\TrackingService.csproj|solutionrelative:trackingservice\\consumer\\orderplacedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73B1ECB-8542-4F18-B258-5D7C9C8CC954}|SharedMessage\\SharedMessage.csproj|c:\\users\\avadhutp\\source\\repos\\rabbitmq\\header exchange\\ordershippingexample\\sharedmessage\\messages\\orderplaced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73B1ECB-8542-4F18-B258-5D7C9C8CC954}|SharedMessage\\SharedMessage.csproj|solutionrelative:sharedmessage\\messages\\orderplaced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPlacedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\TrackingService\\Consumer\\OrderPlacedConsumer.cs",
+              "RelativeDocumentMoniker": "TrackingService\\Consumer\\OrderPlacedConsumer.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\TrackingService\\Consumer\\OrderPlacedConsumer.cs",
+              "RelativeToolTip": "TrackingService\\Consumer\\OrderPlacedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:56:51.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\TrackingService\\Program.cs",
+              "RelativeDocumentMoniker": "TrackingService\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\TrackingService\\Program.cs",
+              "RelativeToolTip": "TrackingService\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:52:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderPlacedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\ShippingServices\\Consumer\\OrderPlacedConsumer.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Consumer\\OrderPlacedConsumer.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\ShippingServices\\Consumer\\OrderPlacedConsumer.cs",
+              "RelativeToolTip": "ShippingServices\\Consumer\\OrderPlacedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:23:20.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\ShippingServices\\Program.cs",
+              "RelativeDocumentMoniker": "ShippingServices\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\ShippingServices\\Program.cs",
+              "RelativeToolTip": "ShippingServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:59:41.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\OrderServices\\Program.cs",
+              "RelativeDocumentMoniker": "OrderServices\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\OrderServices\\Program.cs",
+              "RelativeToolTip": "OrderServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:49:58.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderPlaced.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\SharedMessage\\Messages\\OrderPlaced.cs",
+              "RelativeDocumentMoniker": "SharedMessage\\Messages\\OrderPlaced.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\RabbitMq\\Header Exchange\\OrderShippingExample\\SharedMessage\\Messages\\OrderPlaced.cs",
+              "RelativeToolTip": "SharedMessage\\Messages\\OrderPlaced.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:45:48.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

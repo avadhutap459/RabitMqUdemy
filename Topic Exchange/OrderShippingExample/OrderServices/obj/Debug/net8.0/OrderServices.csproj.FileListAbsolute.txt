@@ -1,0 +1,114 @@
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\appsettings.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.exe
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.deps.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.runtimeconfig.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.pdb
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\SharedMessage.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\bin\Debug\net8.0\SharedMessage.pdb
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.csproj.AssemblyReference.cache
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.AssemblyInfoInputs.cache
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.AssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.csproj.CoreCompileInputs.cache
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.OrderServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderServices.props
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderServices.props
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderServices.props
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\scopedcss\bundle\OrderServices.styles.css
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderSer.808CFF85.Up2Date
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\refint\OrderServices.dll
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.pdb
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.genruntimeconfig.cache
+C:\Users\AvadhutP\source\repos\OrderShippingExample\OrderServices\obj\Debug\net8.0\ref\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\appsettings.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.exe
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.deps.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.runtimeconfig.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.pdb
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\SharedMessage.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\SharedMessage.pdb
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.csproj.AssemblyReference.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.AssemblyInfoInputs.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.AssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.csproj.CoreCompileInputs.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.OrderServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderServices.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderServices.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderServices.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\scopedcss\bundle\OrderServices.styles.css
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderSer.808CFF85.Up2Date
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\refint\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.pdb
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.genruntimeconfig.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Finout Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\ref\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\appsettings.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.exe
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.deps.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.runtimeconfig.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\OrderServices.pdb
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\SharedMessage.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\bin\Debug\net8.0\SharedMessage.pdb
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.csproj.AssemblyReference.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.AssemblyInfoInputs.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.AssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.csproj.CoreCompileInputs.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.OrderServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.build.OrderServices.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderServices.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderServices.props
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\scopedcss\bundle\OrderServices.styles.css
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderSer.808CFF85.Up2Date
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\refint\OrderServices.dll
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.pdb
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\OrderServices.genruntimeconfig.cache
+C:\Users\AvadhutP\source\repos\RabbitMq\Topic Exchange\OrderShippingExample\OrderServices\obj\Debug\net8.0\ref\OrderServices.dll

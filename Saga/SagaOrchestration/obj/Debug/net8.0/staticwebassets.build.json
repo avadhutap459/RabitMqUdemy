@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yTKVMz+DoEJA00FQr4MiRUZqnyQCYo28wDHz5gcvdHk=",
+  "Source": "SagaOrchestration",
+  "BasePath": "_content/SagaOrchestration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

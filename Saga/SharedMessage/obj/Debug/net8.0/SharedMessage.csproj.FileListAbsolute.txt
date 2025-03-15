@@ -1,0 +1,11 @@
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\bin\Debug\net8.0\SharedMessage.deps.json
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\bin\Debug\net8.0\SharedMessage.dll
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\bin\Debug\net8.0\SharedMessage.pdb
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\SharedMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\SharedMessage.AssemblyInfoInputs.cache
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\SharedMessage.AssemblyInfo.cs
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\SharedMessage.csproj.CoreCompileInputs.cache
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\SharedMessage.dll
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\refint\SharedMessage.dll
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\SharedMessage.pdb
+C:\Users\AvadhutP\source\repos\Saga\SharedMessage\obj\Debug\net8.0\ref\SharedMessage.dll

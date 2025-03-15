@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3187E9A1-EF3D-429F-B4F3-C2A76BFC0991}|SagaOrchestration\\SagaOrchestration.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\sagaorchestration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3187E9A1-EF3D-429F-B4F3-C2A76BFC0991}|SagaOrchestration\\SagaOrchestration.csproj|solutionrelative:sagaorchestration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3187E9A1-EF3D-429F-B4F3-C2A76BFC0991}|SagaOrchestration\\SagaOrchestration.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\sagaorchestration\\orderstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3187E9A1-EF3D-429F-B4F3-C2A76BFC0991}|SagaOrchestration\\SagaOrchestration.csproj|solutionrelative:sagaorchestration\\orderstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3187E9A1-EF3D-429F-B4F3-C2A76BFC0991}|SagaOrchestration\\SagaOrchestration.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\sagaorchestration\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3187E9A1-EF3D-429F-B4F3-C2A76BFC0991}|SagaOrchestration\\SagaOrchestration.csproj|solutionrelative:sagaorchestration\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E854607B-7E96-4FAC-9371-AE24ABDD1A5C}|InventoryService\\InventoryService.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E854607B-7E96-4FAC-9371-AE24ABDD1A5C}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276386C7-D836-48FF-92B7-3268B1C3B547}|PaymentService\\PaymentService.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276386C7-D836-48FF-92B7-3268B1C3B547}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BFEB8-A43E-4E9F-9D87-42B2117E31A1}|SharedMessage\\SharedMessage.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\sharedmessage\\messages\\paymentcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BFEB8-A43E-4E9F-9D87-42B2117E31A1}|SharedMessage\\SharedMessage.csproj|solutionrelative:sharedmessage\\messages\\paymentcompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BFEB8-A43E-4E9F-9D87-42B2117E31A1}|SharedMessage\\SharedMessage.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\sharedmessage\\messages\\inventoryreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BFEB8-A43E-4E9F-9D87-42B2117E31A1}|SharedMessage\\SharedMessage.csproj|solutionrelative:sharedmessage\\messages\\inventoryreserved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF65FD9-CE6D-4901-A17A-3FF6E677B971}|OrderService\\OrderService.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF65FD9-CE6D-4901-A17A-3FF6E677B971}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF65FD9-CE6D-4901-A17A-3FF6E677B971}|OrderService\\OrderService.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BF65FD9-CE6D-4901-A17A-3FF6E677B971}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BFEB8-A43E-4E9F-9D87-42B2117E31A1}|SharedMessage\\SharedMessage.csproj|c:\\users\\avadhutp\\source\\repos\\saga\\sharedmessage\\messages\\orderplaced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BFEB8-A43E-4E9F-9D87-42B2117E31A1}|SharedMessage\\SharedMessage.csproj|solutionrelative:sharedmessage\\messages\\orderplaced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SagaOrchestration\\Program.cs",
+              "RelativeDocumentMoniker": "SagaOrchestration\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SagaOrchestration\\Program.cs",
+              "RelativeToolTip": "SagaOrchestration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:26:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SagaOrchestration\\OrderStateMachine.cs",
+              "RelativeDocumentMoniker": "SagaOrchestration\\OrderStateMachine.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SagaOrchestration\\OrderStateMachine.cs",
+              "RelativeToolTip": "SagaOrchestration\\OrderStateMachine.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:47:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderState.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SagaOrchestration\\OrderState.cs",
+              "RelativeDocumentMoniker": "SagaOrchestration\\OrderState.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SagaOrchestration\\OrderState.cs",
+              "RelativeToolTip": "SagaOrchestration\\OrderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:40:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SharedMessage\\Messages\\PaymentCompleted.cs",
+              "RelativeDocumentMoniker": "SharedMessage\\Messages\\PaymentCompleted.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SharedMessage\\Messages\\PaymentCompleted.cs",
+              "RelativeToolTip": "SharedMessage\\Messages\\PaymentCompleted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:14:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\PaymentService\\Program.cs",
+              "RelativeToolTip": "PaymentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:12:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryReserved.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SharedMessage\\Messages\\InventoryReserved.cs",
+              "RelativeDocumentMoniker": "SharedMessage\\Messages\\InventoryReserved.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SharedMessage\\Messages\\InventoryReserved.cs",
+              "RelativeToolTip": "SharedMessage\\Messages\\InventoryReserved.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:09:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\InventoryService\\Program.cs",
+              "RelativeToolTip": "InventoryService\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:59:27.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderPlaced.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SharedMessage\\Messages\\OrderPlaced.cs",
+              "RelativeDocumentMoniker": "SharedMessage\\Messages\\OrderPlaced.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\SharedMessage\\Messages\\OrderPlaced.cs",
+              "RelativeToolTip": "SharedMessage\\Messages\\OrderPlaced.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:53:21.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:49:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService",
+              "DocumentMoniker": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\AvadhutP\\source\\repos\\Saga\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T14:48:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
